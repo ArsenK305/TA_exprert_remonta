@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad96725-71f8-4b02-a96c-ce82d7acab65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/analytics_test/react-app/src/components/SqlQueryToolRemade.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/analytics_test" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/analytics_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/analytics_test/react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/analytics_test/react-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/analytics_test/react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/analytics_test/react-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/analytics_test/react-app/src/components/DbConnection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/analytics_test/react-app/src/components/DbConnection.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/analytics_test/react-app/src/components/SqlQueryTool.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/analytics_test/react-app/src/components/SqlQueryTool.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/analytics_test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -37,12 +32,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/frontend/analytics_test/react-app/public" />
