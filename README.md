@@ -21,21 +21,17 @@
 ### How To: Client Mode with React Only
 
 <ol>
-  <li>Navigate to the <code>frontend</code> folder:</li>
-  <pre>
-    <code>
-cd frontend
-    </code>
-  </pre>
   <li>Install dependencies:</li>
   <pre>
     <code>
+cd frontend
 npm install
     </code>
   </pre>
   <li>Open <code>DbConnection.tsx</code> in the <code>src</code> folder.</li>
-  <li>Use the <code>SqlQueryTool</code> component for running queries locally via <code>sql.js</code>.</li>
-  <li>Start the development server:</li>
+  <li>Make sure to use the <code>SqlQueryTool</code> component for running queries locally via <code>sql.js</code>.</li>
+<img src="image_example1.png" alt="Setup SqlQueryTool" style="max-width: 500px; width: auto; height: auto;">  
+<li>Start the development server:</li>
   <pre>
     <code>
 npm run dev
@@ -49,35 +45,27 @@ npm run dev
 ### How To: Server Mode with React and FastAPI
 
 <ol>
-  <li>Navigate to the <code>frontend</code> folder:</li>
-  <pre>
-    <code>
-cd frontend
-    </code>
-  </pre>
   <li>Install dependencies:</li>
   <pre>
     <code>
+cd frontend
 npm install
     </code>
   </pre>
   <li>Open <code>DbConnection.tsx</code> in the <code>src</code> folder.</li>
-  <li>Use the <code>SqlQueryToolRemade</code> component to connect to the FastAPI backend for query execution.</li>
-  <li>Start the frontend development server:</li>
+  <li>Make sure to use the <code>SqlQueryToolRemade</code> component to connect to the FastAPI backend for query execution.</li>
+<img src="image_example2.png" alt="Setup SqlQueryTool" style="max-width: 500px; width: auto; height: auto;">
+<li>Start the frontend development server:</li>
   <pre>
     <code>
 npm run dev
     </code>
   </pre>
-  <li>Navigate to the <code>backend</code> folder:</li>
+  <li>Setup the backend:</li>
   <pre>
     <code>
+cd ..
 cd backend
-    </code>
-  </pre>
-  <li>Install backend dependencies:</li>
-  <pre>
-    <code>
 pip install -r requirements.txt
     </code>
   </pre>

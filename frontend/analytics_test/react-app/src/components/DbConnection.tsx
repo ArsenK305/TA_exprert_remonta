@@ -36,7 +36,7 @@ const DbConnection = () => {
 
   if (error.length > 0) return <ErrorDisplay error={error} />;
   else if (!db) return <LoadingIndicator />;
-  else return <SqlQueryToolRemade db={db} />;
+  else return <SqlQueryTool db={db} />;
 };
 
 export default DbConnection;
